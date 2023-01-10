@@ -1,0 +1,1 @@
+// This is the js that will be used for the register page
